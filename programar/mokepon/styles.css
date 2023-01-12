@@ -93,7 +93,7 @@ input {
   justify-content: center;
   color: green;
   font-family: 'Poppins', sans-serif;
-  align-items: center ;
+  align-items: center;
   flex-direction: column;
 }
 
@@ -101,4 +101,9 @@ input {
   border: none;
   color: green;
   font-family: 'Poppins', sans-serif;
+}
+
+.ataques {
+  display: grid;
+  grid-template-columns: 100px 100px;
 }
